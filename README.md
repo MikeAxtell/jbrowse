@@ -1,6 +1,10 @@
 [![Build status](https://travis-ci.org/GMOD/jbrowse.svg?branch=dev)](https://travis-ci.org/GMOD/jbrowse)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
+# MikeAxtell fork
+
+Pre-installed plugins 'MultiBigWig' and my modified version of 'SmallRNAPlugin'. For use in visualization of small RNA-seq alignments.
+
 # Installing JBrowse
 
 To install jbrowse, visit http://jbrowse.org/blog and download the latest JBrowse zip file. See instructions at http://jbrowse.org/docs/installation.html for a tutorial on setting up a sample instance.
